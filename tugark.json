@@ -1,0 +1,42 @@
+{
+    "ImageData": {
+        "imageurl": [
+            "https://i.imgur.com/B09L8lf.png",
+            "https://i.imgur.com/hdu1LwL.png",
+            "https://i.imgur.com/w5z4CY9.png",
+            "https://i.imgur.com/009mJmq.png",
+            "https://i.imgur.com/Fn2rlYs.png",
+            "https://i.imgur.com/vwc1Azx.png"
+        ],
+        "size": [
+            5,
+            10
+        ],
+        "desaturation": [
+            0,
+            0
+        ],
+        "emissive": [
+            1,
+            1
+        ],
+        "transparency": [
+            1,
+            1
+        ],
+        "addedcolor": [
+            {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 0
+            },
+            {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 0
+            }
+        ]
+    }
+}
