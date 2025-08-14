@@ -10,7 +10,8 @@
             "https://i.imgur.com/ULDP1rY.png",
             "https://i.imgur.com/HkBsSOP.png",
             "https://i.imgur.com/5X7MRgf.png",
-            "https://i.imgur.com/P7EOeEv.png"
+            "https://i.imgur.com/P7EOeEv.png",
+            "https://i.imgur.com/Q51cJiE.png"
         ],
         "size": [
             10,
@@ -22,9 +23,11 @@
             10,
             15,
             20,
+            20,
             20
         ],
         "desaturation": [
+            0,
             0,
             0,
             0,
@@ -46,9 +49,11 @@
             3,
             1,
             1,
+            1,
             1
         ],
         "transparency": [
+            1,
             1,
             1,
             1,
@@ -120,9 +125,13 @@
                 "g": 0,
                 "b": 0,
                 "a": 0
+            },
+            {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 0
             }
         ]
     }
 }
-
-
